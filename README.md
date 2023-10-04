@@ -16,9 +16,7 @@ This program is designed for training and working with three different machine l
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Pytorch][Pytorch.org]][JQuery-url]
+* Pytorch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
